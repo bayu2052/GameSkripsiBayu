@@ -1,0 +1,1244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7498763402661601365
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13803, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetRequirements:
+    minSdkVersion: 23
+    glesMinVersion: 196608
+    openGLRequireES31AEP: 0
+    vulkanMinVersion: 0
+    targetArchitectures: 5
+  outputPath: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Builds/T.apk
+  buildOptions: 262152
+  buildApkPerCpuArchitecture: 0
+  buildAppBundle: 0
+  splitMode: 0
+  targetArchitectures: 1
+  versionCode: 1
+  packageName: com.DefaultCompany.WordQuiz
+  safeProductName: Word Quiz
+  batchMode: 0
+  stagingArea: Temp/StagingArea
+  patchPackage: 0
+  gradleProjectPath: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle
+--- !u!641289076 &-7071594615242221804
+AudioBuildInfo:
+  m_IsAudioDisabled: 0
+  m_AudioClipCount: 0
+  m_AudioMixerCount: 0
+--- !u!1521398425 &-4750253200437971740
+VideoBuildInfo:
+  m_VideoClipCount: 0
+  m_IsVideoModuleDisabled: 0
+--- !u!382020655 &-2213900789732850861
+PluginBuildInfo:
+  m_RuntimePlugins:
+  - Newtonsoft.Json
+  - UnityAdsInitializationListener
+  - UnityAdsShowListener
+  - UnityAds
+  - UnityAdsLoadListener
+  - billing-5.2.1
+  - common
+  - nunit.framework
+  m_EditorPlugins:
+  - Unity.Plastic.Newtonsoft.Json
+  - zlib64Plastic
+  - Unity.Analytics.Editor
+  - Unity.Plastic.Antlr3.Runtime
+  - liblz4Plastic
+  - unityplastic
+  - JetBrains.Rider.PathLocator
+  - log4netPlastic
+  - lz4x64Plastic
+  - Unity.Analytics.Tracker
+  - AppleEventIntegration
+--- !u!114 &-2113575674337618493
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13802, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializedDependencies:
+  - key: Required by Scripts
+    value: []
+    icon: class/MonoScript
+    size: 0
+  - key: AI Module
+    value: []
+    icon: package/com.unity.modules.ai
+    size: 0
+  - key: AR Module
+    value: []
+    icon: package/com.unity.modules.ar
+    size: 0
+  - key: Accessibility Module
+    value: []
+    icon: package/com.unity.modules.accessibility
+    size: 0
+  - key: AndroidJNI Module
+    value: []
+    icon: package/com.unity.modules.androidjni
+    size: 0
+  - key: Animation Module
+    value: []
+    icon: package/com.unity.modules.animation
+    size: 0
+  - key: AssetBundle Module
+    value: []
+    icon: package/com.unity.modules.assetbundle
+    size: 0
+  - key: Audio Module
+    value: []
+    icon: package/com.unity.modules.audio
+    size: 0
+  - key: Cloth Module
+    value: []
+    icon: package/com.unity.modules.cloth
+    size: 0
+  - key: CommandStateObserver Module
+    value: []
+    icon: package/com.unity.modules.commandstateobserver
+    size: 0
+  - key: ContentLoad Module
+    value: []
+    icon: package/com.unity.modules.contentload
+    size: 0
+  - key: Core Module
+    value: []
+    icon: package/com.unity.modules.core
+    size: 0
+  - key: CrashReporting Module
+    value: []
+    icon: package/com.unity.modules.crashreporting
+    size: 0
+  - key: DSPGraph Module
+    value: []
+    icon: package/com.unity.modules.dspgraph
+    size: 0
+  - key: Director Module
+    value: []
+    icon: package/com.unity.modules.director
+    size: 0
+  - key: GI Module
+    value: []
+    icon: package/com.unity.modules.gi
+    size: 0
+  - key: GameCenter Module
+    value: []
+    icon: package/com.unity.modules.gamecenter
+    size: 0
+  - key: GraphToolsFoundation Module
+    value: []
+    icon: package/com.unity.modules.graphtoolsfoundation
+    size: 0
+  - key: Grid Module
+    value: []
+    icon: package/com.unity.modules.grid
+    size: 0
+  - key: HierarchyCore Module
+    value: []
+    icon: package/com.unity.modules.hierarchycore
+    size: 0
+  - key: HotReload Module
+    value: []
+    icon: package/com.unity.modules.hotreload
+    size: 0
+  - key: IMGUI Module
+    value: []
+    icon: package/com.unity.modules.imgui
+    size: 0
+  - key: ImageConversion Module
+    value: []
+    icon: package/com.unity.modules.imageconversion
+    size: 0
+  - key: Input Module
+    value: []
+    icon: package/com.unity.modules.input
+    size: 0
+  - key: InputForUI Module
+    value: []
+    icon: package/com.unity.modules.inputforui
+    size: 0
+  - key: InputLegacy Module
+    value: []
+    icon: package/com.unity.modules.inputlegacy
+    size: 0
+  - key: JSONSerialize Module
+    value: []
+    icon: package/com.unity.modules.jsonserialize
+    size: 0
+  - key: Localization Module
+    value: []
+    icon: package/com.unity.modules.localization
+    size: 0
+  - key: Marshalling Module
+    value: []
+    icon: package/com.unity.modules.marshalling
+    size: 0
+  - key: Multiplayer Module
+    value: []
+    icon: package/com.unity.modules.multiplayer
+    size: 0
+  - key: ParticleSystem Module
+    value: []
+    icon: package/com.unity.modules.particlesystem
+    size: 0
+  - key: PerformanceReporting Module
+    value: []
+    icon: package/com.unity.modules.performancereporting
+    size: 0
+  - key: Physics Module
+    value: []
+    icon: package/com.unity.modules.physics
+    size: 0
+  - key: Physics2D Module
+    value: []
+    icon: package/com.unity.modules.physics2d
+    size: 0
+  - key: Profiler Module
+    value: []
+    icon: package/com.unity.modules.profiler
+    size: 0
+  - key: Properties Module
+    value: []
+    icon: package/com.unity.modules.properties
+    size: 0
+  - key: ScreenCapture Module
+    value: []
+    icon: package/com.unity.modules.screencapture
+    size: 0
+  - key: SharedInternals Module
+    value: []
+    icon: package/com.unity.modules.sharedinternals
+    size: 0
+  - key: SpriteMask Module
+    value: []
+    icon: package/com.unity.modules.spritemask
+    size: 0
+  - key: SpriteShape Module
+    value: []
+    icon: package/com.unity.modules.spriteshape
+    size: 0
+  - key: Streaming Module
+    value: []
+    icon: package/com.unity.modules.streaming
+    size: 0
+  - key: Substance Module
+    value: []
+    icon: package/com.unity.modules.substance
+    size: 0
+  - key: Subsystems Module
+    value: []
+    icon: package/com.unity.modules.subsystems
+    size: 0
+  - key: TLS Module
+    value: []
+    icon: package/com.unity.modules.tls
+    size: 0
+  - key: Terrain Module
+    value: []
+    icon: package/com.unity.modules.terrain
+    size: 0
+  - key: TerrainPhysics Module
+    value: []
+    icon: package/com.unity.modules.terrainphysics
+    size: 0
+  - key: TextCoreFontEngine Module
+    value: []
+    icon: package/com.unity.modules.textcorefontengine
+    size: 0
+  - key: TextCoreTextEngine Module
+    value: []
+    icon: package/com.unity.modules.textcoretextengine
+    size: 0
+  - key: TextRendering Module
+    value: []
+    icon: package/com.unity.modules.textrendering
+    size: 0
+  - key: Tilemap Module
+    value: []
+    icon: package/com.unity.modules.tilemap
+    size: 0
+  - key: UI Module
+    value: []
+    icon: package/com.unity.modules.ui
+    size: 0
+  - key: UIElements Module
+    value: []
+    icon: package/com.unity.modules.uielements
+    size: 0
+  - key: Umbra Module
+    value: []
+    icon: package/com.unity.modules.umbra
+    size: 0
+  - key: UnityAnalytics Module
+    value: []
+    icon: package/com.unity.modules.unityanalytics
+    size: 0
+  - key: UnityAnalyticsCommon Module
+    value: []
+    icon: package/com.unity.modules.unityanalyticscommon
+    size: 0
+  - key: UnityConnect Module
+    value: []
+    icon: package/com.unity.modules.unityconnect
+    size: 0
+  - key: UnityCurl Module
+    value: []
+    icon: package/com.unity.modules.unitycurl
+    size: 0
+  - key: UnityTestProtocol Module
+    value: []
+    icon: package/com.unity.modules.unitytestprotocol
+    size: 0
+  - key: UnityWebRequest Module
+    value: []
+    icon: package/com.unity.modules.unitywebrequest
+    size: 0
+  - key: UnityWebRequestAssetBundle Module
+    value: []
+    icon: package/com.unity.modules.unitywebrequestassetbundle
+    size: 0
+  - key: UnityWebRequestAudio Module
+    value: []
+    icon: package/com.unity.modules.unitywebrequestaudio
+    size: 0
+  - key: UnityWebRequestTexture Module
+    value: []
+    icon: package/com.unity.modules.unitywebrequesttexture
+    size: 0
+  - key: UnityWebRequestWWW Module
+    value: []
+    icon: package/com.unity.modules.unitywebrequestwww
+    size: 0
+  - key: VFX Module
+    value: []
+    icon: package/com.unity.modules.vfx
+    size: 0
+  - key: VR Module
+    value: []
+    icon: package/com.unity.modules.vr
+    size: 0
+  - key: Vehicles Module
+    value: []
+    icon: package/com.unity.modules.vehicles
+    size: 0
+  - key: Video Module
+    value: []
+    icon: package/com.unity.modules.video
+    size: 0
+  - key: Wind Module
+    value: []
+    icon: package/com.unity.modules.wind
+    size: 0
+  - key: XR Module
+    value: []
+    icon: package/com.unity.modules.xr
+    size: 0
+  modules:
+  - AI Module
+  - AR Module
+  - Accessibility Module
+  - AndroidJNI Module
+  - Animation Module
+  - AssetBundle Module
+  - Audio Module
+  - Cloth Module
+  - CommandStateObserver Module
+  - ContentLoad Module
+  - Core Module
+  - CrashReporting Module
+  - DSPGraph Module
+  - Director Module
+  - GI Module
+  - GameCenter Module
+  - GraphToolsFoundation Module
+  - Grid Module
+  - HierarchyCore Module
+  - HotReload Module
+  - IMGUI Module
+  - ImageConversion Module
+  - Input Module
+  - InputForUI Module
+  - InputLegacy Module
+  - JSONSerialize Module
+  - Localization Module
+  - Marshalling Module
+  - Multiplayer Module
+  - ParticleSystem Module
+  - PerformanceReporting Module
+  - Physics Module
+  - Physics2D Module
+  - Profiler Module
+  - Properties Module
+  - ScreenCapture Module
+  - SharedInternals Module
+  - SpriteMask Module
+  - SpriteShape Module
+  - Streaming Module
+  - Substance Module
+  - Subsystems Module
+  - TLS Module
+  - Terrain Module
+  - TerrainPhysics Module
+  - TextCoreFontEngine Module
+  - TextCoreTextEngine Module
+  - TextRendering Module
+  - Tilemap Module
+  - UI Module
+  - UIElements Module
+  - Umbra Module
+  - UnityAnalytics Module
+  - UnityAnalyticsCommon Module
+  - UnityConnect Module
+  - UnityCurl Module
+  - UnityTestProtocol Module
+  - UnityWebRequest Module
+  - UnityWebRequestAssetBundle Module
+  - UnityWebRequestAudio Module
+  - UnityWebRequestTexture Module
+  - UnityWebRequestWWW Module
+  - VFX Module
+  - VR Module
+  - Vehicles Module
+  - Video Module
+  - Wind Module
+  - XR Module
+  serializedSizes: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  totalSize: 0
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Report
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 638466555888075355
+    buildGUID: 38f82332b0194e02b0b1ddf967d8b8ed
+    platformName: Android
+    platformGroupName: Android
+    subtarget: 0
+    options: 262152
+    assetBundleOptions: 0
+    outputPath: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Builds/T.apk
+    crc: 0
+    totalSize: 70703814
+    totalTimeTicks: 114840834
+    totalErrors: 1
+    totalWarnings: 1
+    buildType: 1
+    buildResult: 1
+    multiProcessEnabled: 0
+  m_Files:
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+    role: unity3d
+    id: 0
+    totalSize: 2483988
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/RuntimeInitializeOnLoads.json
+    role: json
+    id: 1
+    totalSize: 1554
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/ScriptingAssemblies.json
+    role: json
+    id: 2
+    totalSize: 3915
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/boot.config
+    role: config
+    id: 3
+    totalSize: 192
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/UnityServicesProjectConfiguration.json
+    role: json
+    id: 4
+    totalSize: 1410
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/UnityAds.aar
+    role: aar
+    id: 5
+    totalSize: 626256
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/billing-5.2.1.aar
+    role: aar
+    id: 6
+    totalSize: 332281
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/common.aar
+    role: aar
+    id: 7
+    totalSize: 12536
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll
+    role: dll
+    id: 8
+    totalSize: 8704
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Mono.Security.dll
+    role: dll
+    id: 9
+    totalSize: 120832
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/mscorlib.dll
+    role: dll
+    id: 10
+    totalSize: 2659840
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Newtonsoft.Json.dll
+    role: dll
+    id: 11
+    totalSize: 387584
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/System.Configuration.dll
+    role: dll
+    id: 12
+    totalSize: 65024
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/System.Core.dll
+    role: dll
+    id: 13
+    totalSize: 397312
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/System.Data.dll
+    role: dll
+    id: 14
+    totalSize: 626176
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/System.dll
+    role: dll
+    id: 15
+    totalSize: 1203200
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/System.Drawing.dll
+    role: dll
+    id: 16
+    totalSize: 69632
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/System.Numerics.dll
+    role: dll
+    id: 17
+    totalSize: 38400
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/System.Runtime.Serialization.dll
+    role: dll
+    id: 18
+    totalSize: 5632
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/System.Xml.dll
+    role: dll
+    id: 19
+    totalSize: 1557504
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/System.Xml.Linq.dll
+    role: dll
+    id: 20
+    totalSize: 35840
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Analytics.dll
+    role: dll
+    id: 21
+    totalSize: 41472
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Configuration.dll
+    role: dll
+    id: 22
+    totalSize: 10240
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Device.dll
+    role: dll
+    id: 23
+    totalSize: 6656
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.dll
+    role: dll
+    id: 24
+    totalSize: 6144
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Environments.Internal.dll
+    role: dll
+    id: 25
+    totalSize: 4096
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Internal.dll
+    role: dll
+    id: 26
+    totalSize: 37888
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Registration.dll
+    role: dll
+    id: 27
+    totalSize: 16384
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Scheduler.dll
+    role: dll
+    id: 28
+    totalSize: 10240
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Telemetry.dll
+    role: dll
+    id: 29
+    totalSize: 26624
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Threading.dll
+    role: dll
+    id: 30
+    totalSize: 3584
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.dll
+    role: dll
+    id: 31
+    totalSize: 410112
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AccessibilityModule.dll
+    role: dll
+    id: 32
+    totalSize: 20480
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AIModule.dll
+    role: dll
+    id: 33
+    totalSize: 10752
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll
+    role: dll
+    id: 34
+    totalSize: 82432
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll
+    role: dll
+    id: 35
+    totalSize: 24064
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AssetBundleModule.dll
+    role: dll
+    id: 36
+    totalSize: 10752
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AudioModule.dll
+    role: dll
+    id: 37
+    totalSize: 14336
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.CoreModule.dll
+    role: dll
+    id: 38
+    totalSize: 389120
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.DirectorModule.dll
+    role: dll
+    id: 39
+    totalSize: 15360
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.dll
+    role: dll
+    id: 40
+    totalSize: 74752
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.GridModule.dll
+    role: dll
+    id: 41
+    totalSize: 10240
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.HierarchyCoreModule.dll
+    role: dll
+    id: 42
+    totalSize: 14848
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll
+    role: dll
+    id: 43
+    totalSize: 98304
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.InputForUIModule.dll
+    role: dll
+    id: 44
+    totalSize: 39424
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll
+    role: dll
+    id: 45
+    totalSize: 19968
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.InputModule.dll
+    role: dll
+    id: 46
+    totalSize: 11776
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.MarshallingModule.dll
+    role: dll
+    id: 47
+    totalSize: 11264
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll
+    role: dll
+    id: 48
+    totalSize: 15360
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll
+    role: dll
+    id: 49
+    totalSize: 18944
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll
+    role: dll
+    id: 50
+    totalSize: 25088
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.PropertiesModule.dll
+    role: dll
+    id: 51
+    totalSize: 114688
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll
+    role: dll
+    id: 52
+    totalSize: 16896
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll
+    role: dll
+    id: 53
+    totalSize: 10240
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.SubsystemsModule.dll
+    role: dll
+    id: 54
+    totalSize: 15360
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.TerrainModule.dll
+    role: dll
+    id: 55
+    totalSize: 18944
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll
+    role: dll
+    id: 56
+    totalSize: 38912
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll
+    role: dll
+    id: 57
+    totalSize: 235008
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll
+    role: dll
+    id: 58
+    totalSize: 20480
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll
+    role: dll
+    id: 59
+    totalSize: 19456
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UI.dll
+    role: dll
+    id: 60
+    totalSize: 263680
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UIElementsModule.dll
+    role: dll
+    id: 61
+    totalSize: 1592320
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UIModule.dll
+    role: dll
+    id: 62
+    totalSize: 26112
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll
+    role: dll
+    id: 63
+    totalSize: 18432
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+    role: dll
+    id: 64
+    totalSize: 12800
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+    role: dll
+    id: 65
+    totalSize: 30208
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.VFXModule.dll
+    role: dll
+    id: 66
+    totalSize: 16896
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.VideoModule.dll
+    role: dll
+    id: 67
+    totalSize: 14336
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.VRModule.dll
+    role: dll
+    id: 68
+    totalSize: 10240
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.XRModule.dll
+    role: dll
+    id: 69
+    totalSize: 21504
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Assembly-CSharp.pdb
+    role: pdb
+    id: 70
+    totalSize: 18320
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Newtonsoft.Json.pdb
+    role: pdb
+    id: 71
+    totalSize: 157660
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Analytics.pdb
+    role: pdb
+    id: 72
+    totalSize: 27464
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Configuration.pdb
+    role: pdb
+    id: 73
+    totalSize: 17080
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Device.pdb
+    role: pdb
+    id: 74
+    totalSize: 15916
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Environments.Internal.pdb
+    role: pdb
+    id: 75
+    totalSize: 14604
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Internal.pdb
+    role: pdb
+    id: 76
+    totalSize: 26456
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.pdb
+    role: pdb
+    id: 77
+    totalSize: 15852
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Registration.pdb
+    role: pdb
+    id: 78
+    totalSize: 17900
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Scheduler.pdb
+    role: pdb
+    id: 79
+    totalSize: 17068
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Telemetry.pdb
+    role: pdb
+    id: 80
+    totalSize: 22680
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.Services.Core.Threading.pdb
+    role: pdb
+    id: 81
+    totalSize: 14384
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.pdb
+    role: pdb
+    id: 82
+    totalSize: 182192
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AccessibilityModule.pdb
+    role: pdb
+    id: 83
+    totalSize: 16376
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AIModule.pdb
+    role: pdb
+    id: 84
+    totalSize: 9476
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.pdb
+    role: pdb
+    id: 85
+    totalSize: 41508
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AnimationModule.pdb
+    role: pdb
+    id: 86
+    totalSize: 14060
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AssetBundleModule.pdb
+    role: pdb
+    id: 87
+    totalSize: 9140
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.AudioModule.pdb
+    role: pdb
+    id: 88
+    totalSize: 10880
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.CoreModule.pdb
+    role: pdb
+    id: 89
+    totalSize: 146120
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.DirectorModule.pdb
+    role: pdb
+    id: 90
+    totalSize: 11180
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.GridModule.pdb
+    role: pdb
+    id: 91
+    totalSize: 9348
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.HierarchyCoreModule.pdb
+    role: pdb
+    id: 92
+    totalSize: 13240
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.IMGUIModule.pdb
+    role: pdb
+    id: 93
+    totalSize: 44788
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.InputForUIModule.pdb
+    role: pdb
+    id: 94
+    totalSize: 23200
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.pdb
+    role: pdb
+    id: 95
+    totalSize: 12360
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.InputModule.pdb
+    role: pdb
+    id: 96
+    totalSize: 9896
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.MarshallingModule.pdb
+    role: pdb
+    id: 97
+    totalSize: 10116
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.pdb
+    role: pdb
+    id: 98
+    totalSize: 10480
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.pdb
+    role: pdb
+    id: 99
+    totalSize: 11360
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.Physics2DModule.pdb
+    role: pdb
+    id: 100
+    totalSize: 11256
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.PhysicsModule.pdb
+    role: pdb
+    id: 101
+    totalSize: 13772
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.PropertiesModule.pdb
+    role: pdb
+    id: 102
+    totalSize: 50012
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.pdb
+    role: pdb
+    id: 103
+    totalSize: 11852
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.pdb
+    role: pdb
+    id: 104
+    totalSize: 9080
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.SubsystemsModule.pdb
+    role: pdb
+    id: 105
+    totalSize: 11520
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.TerrainModule.pdb
+    role: pdb
+    id: 106
+    totalSize: 12668
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.TextCoreFontEngineModule.pdb
+    role: pdb
+    id: 107
+    totalSize: 18348
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.TextCoreTextEngineModule.pdb
+    role: pdb
+    id: 108
+    totalSize: 111456
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.pdb
+    role: pdb
+    id: 109
+    totalSize: 11396
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.TilemapModule.pdb
+    role: pdb
+    id: 110
+    totalSize: 13384
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UI.pdb
+    role: pdb
+    id: 111
+    totalSize: 135624
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UIElementsModule.pdb
+    role: pdb
+    id: 112
+    totalSize: 741644
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UIModule.pdb
+    role: pdb
+    id: 113
+    totalSize: 12100
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.pdb
+    role: pdb
+    id: 114
+    totalSize: 13076
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.pdb
+    role: pdb
+    id: 115
+    totalSize: 10424
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.pdb
+    role: pdb
+    id: 116
+    totalSize: 16772
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.VFXModule.pdb
+    role: pdb
+    id: 117
+    totalSize: 11404
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.VideoModule.pdb
+    role: pdb
+    id: 118
+    totalSize: 10364
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.VRModule.pdb
+    role: pdb
+    id: 119
+    totalSize: 9788
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Managed/UnityEngine.XRModule.pdb
+    role: pdb
+    id: 120
+    totalSize: 13248
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/Resources/unity
+      default resources
+    role: unity default resources
+    id: 121
+    totalSize: 3765788
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/gradle/wrapper/gradle-wrapper.properties
+    role: properties
+    id: 122
+    totalSize: 77
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/java/com/unity3d/player/UnityPlayerActivity.java
+    role: java
+    id: 123
+    totalSize: 6133
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar
+    role: jar
+    id: 124
+    totalSize: 157557
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values/ids.xml
+    role: xml
+    id: 125
+    totalSize: 111
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values-v21/styles.xml
+    role: xml
+    id: 126
+    totalSize: 171
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values-v28/styles.xml
+    role: xml
+    id: 127
+    totalSize: 244
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values-v31/styles.xml
+    role: xml
+    id: 128
+    totalSize: 634
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values/styles.xml
+    role: xml
+    id: 129
+    totalSize: 532
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values/colors.xml
+    role: xml
+    id: 130
+    totalSize: 132
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/values/strings.xml
+    role: xml
+    id: 131
+    totalSize: 178
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values-v30/freeformwindow.xml
+    role: xml
+    id: 132
+    totalSize: 395
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/res/values/freeformwindow.xml
+    role: xml
+    id: 133
+    totalSize: 359
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml
+    role: xml
+    id: 134
+    totalSize: 266
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml
+    role: xml
+    id: 135
+    totalSize: 266
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png
+    role: png
+    id: 136
+    totalSize: 1746
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png
+    role: png
+    id: 137
+    totalSize: 318
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png
+    role: png
+    id: 138
+    totalSize: 4549
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/drawable-xhdpi/app_banner.png
+    role: png
+    id: 139
+    totalSize: 7819
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/available.tflite
+    role: tflite
+    id: 140
+    totalSize: 18564
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/available_features.json
+    role: json
+    id: 141
+    totalSize: 2055
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/oom.tflite
+    role: tflite
+    id: 142
+    totalSize: 5628
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/oom_features.json
+    role: json
+    id: 143
+    totalSize: 414
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/realtime.tflite
+    role: tflite
+    id: 144
+    totalSize: 3252
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/realtime_features.json
+    role: json
+    id: 145
+    totalSize: 140
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmain.so
+    role: so
+    id: 146
+    totalSize: 8604
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so
+    role: so
+    id: 147
+    totalSize: 20265164
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmonobdwgc-2.0.so
+    role: so
+    id: 148
+    totalSize: 6009192
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libMonoPosixHelper.so
+    role: so
+    id: 149
+    totalSize: 350080
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmono-native.so
+    role: so
+    id: 150
+    totalSize: 1169684
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid
+    role: unity_app_guid
+    id: 151
+    totalSize: 36
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/resources/META-INF/com.android.games.engine.build_fingerprint
+    role: build_fingerprint
+    id: 152
+    totalSize: 76
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+    role: xml
+    id: 153
+    totalSize: 496
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/AndroidManifest.xml
+    role: xml
+    id: 154
+    totalSize: 1982
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build.gradle
+    role: gradle
+    id: 155
+    totalSize: 1738
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build.gradle
+    role: gradle
+    id: 156
+    totalSize: 1210
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/build.gradle
+    role: gradle
+    id: 157
+    totalSize: 795
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/gradle.properties
+    role: properties
+    id: 158
+    totalSize: 227
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/settings.gradle
+    role: gradle
+    id: 159
+    totalSize: 412
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/proguard-unity.txt
+    role: txt
+    id: 160
+    totalSize: 1624
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Library/Bee/Android/Prj/Mono2x/Gradle/local.properties
+    role: properties
+    id: 161
+    totalSize: 110
+  - path: C:/Users/haxmh/Downloads/Persepolis/Compressed/Logo-Quiz-master/Logo-Quiz-master/Builds/T.apk
+    role: APK
+    id: 162
+    totalSize: 22099736
+  m_BuildSteps:
+  - stepName: Build player
+    durationTicks: 114840834
+    depth: 0
+    messages: []
+  - stepName: Preprocess Player
+    durationTicks: 90257
+    depth: 1
+    messages:
+    - type: 2
+      content: '[ServicesCore]: To use Unity''s dashboard services, you need to link
+        your Unity project to a project ID. To do this, go to Project Settings to
+        select your organization, select your project and then link a project ID.
+        You also need to make sure your organization has access to the required products.
+        Visit https://dashboard.unity3d.com to sign up.'
+  - stepName: Prepare For Build
+    durationTicks: 42586
+    depth: 1
+    messages: []
+  - stepName: ProducePlayerScriptAssemblies
+    durationTicks: 31446022
+    depth: 1
+    messages: []
+  - stepName: Prebuild Cleanup and Recompile
+    durationTicks: 30322052
+    depth: 2
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 27829892
+    depth: 3
+    messages: []
+  - stepName: Generate and validate platform script types
+    durationTicks: 82741
+    depth: 3
+    messages: []
+  - stepName: Verify Build setup
+    durationTicks: 1520158
+    depth: 1
+    messages: []
+  - stepName: Check old data build
+    durationTicks: 1476000
+    depth: 2
+    messages: []
+  - stepName: Set up scripts only build
+    durationTicks: 4848
+    depth: 2
+    messages: []
+  - stepName: Prepare assets for target platform
+    durationTicks: 275336
+    depth: 1
+    messages: []
+  - stepName: Prepare splash screen
+    durationTicks: 3332
+    depth: 1
+    messages:
+    - type: 3
+      content: Including Unity Splash Screen logo because 'Show Unity Logo' is enabled.
+  - stepName: Run script only build
+    durationTicks: 270388
+    depth: 1
+    messages: []
+  - stepName: Build scripts DLLs
+    durationTicks: 184336
+    depth: 2
+    messages: []
+  - stepName: GetSystemAssemblies
+    durationTicks: 6932
+    depth: 3
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 80279326
+    depth: 1
+    messages:
+    - type: 0
+      content: "System.Exception: apkanalyzer failed to estimate the apk size. Output:\nError:
+        Could not find or load main class Files\\Unity\\Hub\\Editor\\2023.2.12f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmdline-tools\\6.0\\bin\\\\..\r\nCaused
+        by: java.lang.ClassNotFoundException: Files\\Unity\\Hub\\Editor\\2023/2/12f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmdline-tools\\6/0\\bin\\\\//\r\n\r\n\r\n 
+        at Unity.BuildReportInspector.Mobile.AndroidUtilities.GetApkDownloadSize
+        (System.String applicationPath) [0x001e5] in .\\Library\\PackageCache\\com.unity.build-report-inspector@0.3.0-preview\\Editor\\Mobile\\AndroidUtilities.cs:253
+        \r\n  at Unity.BuildReportInspector.Mobile.AndroidUtilities.GetArchitectureInfo
+        (System.String applicationPath) [0x000f3] in .\\Library\\PackageCache\\com.unity.build-report-inspector@0.3.0-preview\\Editor\\Mobile\\AndroidUtilities.cs:128
+        \r\n  at Unity.BuildReportInspector.Mobile.MobileAppendix..ctor (System.String
+        applicationPath) [0x000d8] in .\\Library\\PackageCache\\com.unity.build-report-inspector@0.3.0-preview\\Editor\\Mobile\\MobileAppendix.cs:90
+        \r\n  at Unity.BuildReportInspector.Mobile.MobileHelper.GenerateMobileAppendix
+        (System.String applicationPath, System.String guid) [0x0001e] in .\\Library\\PackageCache\\com.unity.build-report-inspector@0.3.0-preview\\Editor\\Mobile\\MobileHelper.cs:77 "
+  - stepName: Initializing
+    durationTicks: 504
+    depth: 2
+    messages: []
+  - stepName: Check gradle project collisions
+    durationTicks: 65
+    depth: 2
+    messages: []
+  - stepName: Preparing banner
+    durationTicks: 953632
+    depth: 2
+    messages: []
+  - stepName: Setup incremental player build
+    durationTicks: 315269
+    depth: 2
+    messages: []
+  - stepName: Incremental player build
+    durationTicks: 1009346
+    depth: 2
+    messages: []
+  - stepName: Report output files
+    durationTicks: 221519
+    depth: 2
+    messages: []
+  - stepName: Calling IPostGenerateGradleAndroidProject callbacks
+    durationTicks: 5670
+    depth: 2
+    messages: []
+  - stepName: Cloud Diagnostics Symbol Upload
+    durationTicks: 85
+    depth: 2
+    messages: []
+  - stepName: Building Gradle project
+    durationTicks: 56858388
+    depth: 2
+    messages: []
+  - stepName: Processing Mapping File
+    durationTicks: 329
+    depth: 2
+    messages: []
+  - stepName: Moving output package(s)
+    durationTicks: 59259
+    depth: 2
+    messages: []
+  - stepName: Appending additional symbols
+    durationTicks: 170
+    depth: 2
+    messages: []
+  m_Appendices:
+  - {fileID: -2113575674337618493}
+  - {fileID: -7498763402661601365}
+  - {fileID: -2213900789732850861}
+  - {fileID: -7071594615242221804}
+  - {fileID: -4750253200437971740}

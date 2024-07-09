@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: b95addfde65b66548908a773a2cc0b54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1585870904827747262
+    second: GAME COMPLETE_0
+  - first:
+      213: -2116423673406377935
+    second: GAME COMPLETE_1
+  - first:
+      213: 6127903996645459120
+    second: GAME COMPLETE_2
+  - first:
+      213: 3132904943055631045
+    second: GAME COMPLETE_3
+  - first:
+      213: -445551511687324972
+    second: GAME COMPLETE_4
+  - first:
+      213: -6972032824003135358
+    second: GAME COMPLETE_5
+  - first:
+      213: 5283953482646893720
+    second: GAME COMPLETE_6
+  - first:
+      213: 5810834045840152137
+    second: GAME COMPLETE_7
+  - first:
+      213: -5410118695873618151
+    second: GAME COMPLETE_8
+  - first:
+      213: -8444553322293096670
+    second: GAME COMPLETE_9
+  - first:
+      213: -2944633069663625051
+    second: GAME COMPLETE_10
+  - first:
+      213: 81440862384223038
+    second: GAME COMPLETE_11
+  - first:
+      213: 8599217990107086030
+    second: GAME COMPLETE_12
+  - first:
+      213: 2826745954500075581
+    second: GAME COMPLETE_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GAME COMPLETE_0
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 997
+        width: 428
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb92e58f25220610800000000000000
+      internalID: 1585870904827747262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_1
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 997
+        width: 385
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130b260e1e3f0a2e0800000000000000
+      internalID: -2116423673406377935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_2
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 997
+        width: 507
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4cfb9c730ba0550800000000000000
+      internalID: 6127903996645459120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_3
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 997
+        width: 335
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c275e562705a7b20800000000000000
+      internalID: 3132904943055631045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 491
+        width: 351
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da1db0c24511d9f0800000000000000
+      internalID: -445551511687324972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 491
+        width: 411
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288fde2061d5e3f90800000000000000
+      internalID: -6972032824003135358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 491
+        width: 507
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8943bd662bf545940800000000000000
+      internalID: 5283953482646893720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_7
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 490
+        width: 389
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9465c0f07ca34a050800000000000000
+      internalID: 5810834045840152137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_8
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 491
+        width: 318
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fd0cbc5b56be4b0800000000000000
+      internalID: -5410118695873618151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_9
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 491
+        width: 334
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f00e99e7beeca80800000000000000
+      internalID: -8444553322293096670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_10
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 490
+        width: 355
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0e4d013df8227d0800000000000000
+      internalID: -2944633069663625051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_11
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 491
+        width: 333
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33fc986806512100800000000000000
+      internalID: 81440862384223038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 3361
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc3b7e833f865770800000000000000
+      internalID: 8599217990107086030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAME COMPLETE_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 2832
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30ef38087e9a3720800000000000000
+      internalID: 2826745954500075581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GAME COMPLETE_0: 1585870904827747262
+      GAME COMPLETE_1: -2116423673406377935
+      GAME COMPLETE_10: -2944633069663625051
+      GAME COMPLETE_11: 81440862384223038
+      GAME COMPLETE_12: 8599217990107086030
+      GAME COMPLETE_13: 2826745954500075581
+      GAME COMPLETE_2: 6127903996645459120
+      GAME COMPLETE_3: 3132904943055631045
+      GAME COMPLETE_4: -445551511687324972
+      GAME COMPLETE_5: -6972032824003135358
+      GAME COMPLETE_6: 5283953482646893720
+      GAME COMPLETE_7: 5810834045840152137
+      GAME COMPLETE_8: -5410118695873618151
+      GAME COMPLETE_9: -8444553322293096670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
