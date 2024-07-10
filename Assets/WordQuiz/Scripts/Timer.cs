@@ -47,8 +47,6 @@ namespace Bayu
                     TimerEnded();
                 }
             }
-         
-            //  Debug.Log("update timer. isRunning" + isRunning + ", currentTime: " + currentTime);
         }
 
         bool _isRunning;
@@ -83,8 +81,6 @@ namespace Bayu
             Debug.Log("Timer started. isRunning: " + isRunning);
             
         }
-
-       
 
         void TimerEnded()
         {

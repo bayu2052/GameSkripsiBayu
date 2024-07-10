@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: deddea8f3cdad4d429c1b29110975322
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6820508598753728515
+    second: WORD BOOK PAUSED_0
+  - first:
+      213: 4245687879960154169
+    second: WORD BOOK PAUSED_1
+  - first:
+      213: -2400580616940347324
+    second: WORD BOOK PAUSED_2
+  - first:
+      213: 3962992096537771459
+    second: WORD BOOK PAUSED_3
+  - first:
+      213: -987466652563142542
+    second: WORD BOOK PAUSED_4
+  - first:
+      213: -2043274012038628438
+    second: WORD BOOK PAUSED_5
+  - first:
+      213: 916033004282697819
+    second: WORD BOOK PAUSED_6
+  - first:
+      213: -1746011607101364918
+    second: WORD BOOK PAUSED_7
+  - first:
+      213: 6861759230278806901
+    second: WORD BOOK PAUSED_8
+  - first:
+      213: 3327480298550315915
+    second: WORD BOOK PAUSED_9
+  - first:
+      213: 6963207304212636167
+    second: WORD BOOK PAUSED_10
+  - first:
+      213: -8091487584098323184
+    second: WORD BOOK PAUSED_11
+  - first:
+      213: 6370773251421186557
+    second: WORD BOOK PAUSED_12
+  - first:
+      213: -8124218976885347982
+    second: WORD BOOK PAUSED_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 431
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30896381f6057ae50800000000000000
+      internalID: 6820508598753728515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 386
+        width: 315
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930d438d1a6bbea30800000000000000
+      internalID: 4245687879960154169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_2
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 386
+        width: 307
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4402590d5ac6faed0800000000000000
+      internalID: -2400580616940347324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_3
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 386
+        width: 312
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd70d1a0506ff630800000000000000
+      internalID: 3962992096537771459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_4
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 386
+        width: 281
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2780e62bf40db42f0800000000000000
+      internalID: -987466652563142542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_5
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 386
+        width: 314
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab76ad9c15d4a3e0800000000000000
+      internalID: -2043274012038628438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_6
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 386
+        width: 315
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58ddcef92766bc00800000000000000
+      internalID: 916033004282697819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_7
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 386
+        width: 309
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45a301b1bbe4c7e0800000000000000
+      internalID: -1746011607101364918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 298
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57da60f2aadd93f50800000000000000
+      internalID: 6861759230278806901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_9
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 295
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bc338a3b59d2e20800000000000000
+      internalID: 3327480298550315915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_10
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 0
+        width: 311
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702eff8862842a060800000000000000
+      internalID: 6963207304212636167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_11
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 0
+        width: 276
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015f55da9e245bf80800000000000000
+      internalID: -8091487584098323184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_12
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 0
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df92583b488896850800000000000000
+      internalID: 6370773251421186557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WORD BOOK PAUSED_13
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 0
+        width: 312
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279e24d62e9f04f80800000000000000
+      internalID: -8124218976885347982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WORD BOOK PAUSED_0: 6820508598753728515
+      WORD BOOK PAUSED_1: 4245687879960154169
+      WORD BOOK PAUSED_10: 6963207304212636167
+      WORD BOOK PAUSED_11: -8091487584098323184
+      WORD BOOK PAUSED_12: 6370773251421186557
+      WORD BOOK PAUSED_13: -8124218976885347982
+      WORD BOOK PAUSED_2: -2400580616940347324
+      WORD BOOK PAUSED_3: 3962992096537771459
+      WORD BOOK PAUSED_4: -987466652563142542
+      WORD BOOK PAUSED_5: -2043274012038628438
+      WORD BOOK PAUSED_6: 916033004282697819
+      WORD BOOK PAUSED_7: -1746011607101364918
+      WORD BOOK PAUSED_8: 6861759230278806901
+      WORD BOOK PAUSED_9: 3327480298550315915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

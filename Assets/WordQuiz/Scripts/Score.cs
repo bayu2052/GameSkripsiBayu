@@ -22,12 +22,10 @@ namespace Bayu
 
         public void UpdateScore(float timeRemaining)
         {
-            // Nonaktifkan semua game object terlebih dahulu
             scoreObject1.SetActive(false);
             scoreObject2.SetActive(false);
             scoreObject3.SetActive(false);
 
-            // Aktifkan game object berdasarkan waktu yang tersisa
             if (timeRemaining >= 14f)
             {
                 scoreObject3.SetActive(true);

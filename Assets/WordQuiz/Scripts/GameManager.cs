@@ -35,8 +35,6 @@ namespace Bayu
 
         }
 
-        
-
         public void ShowGameOver()
         {
             gameOverPanel.SetActive(true);

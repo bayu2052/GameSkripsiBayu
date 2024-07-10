@@ -40,6 +40,16 @@ public class KamusInggris : MonoBehaviour
         }
     }
 
+    private void UpdateImageAndSound()
+    {
+        if (imageSprites1.Length > 0 && imageSprites2.Length > 0)
+        {
+            imagePanel1.sprite = imageSprites1[currentIndex];
+            imagePanel2.sprite = imageSprites2[currentIndex];
+        }
+    }
+
+
     private void NavigateUp()
     {
         if (currentIndex > 0)
@@ -57,15 +67,6 @@ public class KamusInggris : MonoBehaviour
             currentIndex++;
             UpdateImageAndSound();
             UpdateButtonVisibility();
-        }
-    }
-
-    private void UpdateImageAndSound()
-    {
-        if (imageSprites1.Length > 0 && imageSprites2.Length > 0)
-        {
-            imagePanel1.sprite = imageSprites1[currentIndex];
-            imagePanel2.sprite = imageSprites2[currentIndex];
         }
     }
 

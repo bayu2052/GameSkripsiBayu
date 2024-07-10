@@ -56,10 +56,8 @@ namespace Bayu
         }
         
         
-        public void SetQuestion()  // Ubah akses menjadi public
+        public void SetQuestion()  
         {
-            
-            
             answerWord = questionDataScriptable.questions[currentQuestionIndex].answer;
             questionImage.sprite = questionDataScriptable.questions[currentQuestionIndex].questionImage;
 
